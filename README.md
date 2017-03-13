@@ -5,6 +5,9 @@
 > 主要是处理数据比较麻烦，还有可以挖掘分析的
 > 不过都说拉钩的招聘回复率低呐
 
+[在线查看][1]
+
+
 ## Build Setup
 
 ``` bash
@@ -18,4 +21,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+[1]: https://cynthiamochi.github.io/v-lagou/
